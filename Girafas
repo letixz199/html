@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="girafa.jpg" alt="girafa.jpg">
     <h1>Você sabia?</h1>
+    <img src="girafa.jpg" alt="girafa.jpg">
     <ul>
         <li>Girafa contradição: cabeça nas nuvens pé no chão</li>
         <li>A girafa, calada, lá de cima vê tudo e não diz nada</li>
@@ -17,8 +17,17 @@
         <li>Melhor que a cabeça nas nuvens é ter os pés no chão</li>
         <li>A modernidade vai cagar, as relações humanas</li>
     </ul>
-    
     <h3>Porque a girafa tem o pescoço tão comprido?</h3>
-
+    <img src="dia-mundial-girafa-2.jpg" alt="dia-mundial-girafa-2.jpg">
+        <p>Há uma área na Biologia que chamamos de Evolução. Nessa área nós estudamos como ocorreu a evolução de
+       diversos seres vivos ao longo dos milhões de anos, ou seja, como os seres vivos conseguiram manter e desenvolver a sua espécie com o passar dos anos.
+       Lamarck e Charles Darwin foram cientistas que viveram há muitos anos e que estudaram a fundo a evolução das espécies, sendo hoje muito conhecidos e respeitados.
+       Cada cientista tinha a sua teoria sobre o tamanho do pescoço da girafa, mas, hoje em dia, especialistas acreditam
+       Acredita-se que há muitos e muitos anos existiam girafas de pescoço comprido e girafas de pescoço curto.
+       As girafas de pescoço curto se alimentavam de grama e arbustos que estavam ao seu alcance, enquanto que as girafas de pescoço comprido
+       comiam folhas que encontravam nas copas das árvores</p> 
+        </p>
+    <h4>Quer saber mais clique no link abaixo!</h4>
+    <a href="https://brasilescola.uol.com.br/animais/girafa.htm">Girafa</a>
 </body>
 </html>
